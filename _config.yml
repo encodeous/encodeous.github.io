@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Encodeous Github Page
+title: Encodeous
 description: A page that contains all the projects I have done
 
 
@@ -37,15 +37,15 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-col: "#95A5A6"
+navbar-text-col: "#2c3e50"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#EEEEEE"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+hover-col: "#003171"
+footer-col: "#5D8CAE"
+footer-text-col: "#D2D7D3"
+footer-link-col: "#BFBFBF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
