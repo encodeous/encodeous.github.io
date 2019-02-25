@@ -47,8 +47,9 @@ if(Blah.nah)
 > An example of a quote
 
 A random Table:
+
 | Number | Next number |
-| :------ |:--- |
+|:------ |:-----------|
 | 1 | Foo |
 | 51 | Par |
 | 151 | BOO |
@@ -104,8 +105,9 @@ if(Blah.nah)
 > An example of a quote
 
 A random Table:
+
 | Number | Next number |
-| :------ |:--- |
+|:------ |:-----------|
 | 1 | Foo |
 | 51 | Par |
 | 151 | BOO |
