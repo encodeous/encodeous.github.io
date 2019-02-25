@@ -19,8 +19,6 @@ Link: Click [here!]()
 
 Image: ![alt text](https://encodeous.github.io/img/avatar-icon.png)
 
-Linked Image: [![alt text](https://encodeous.github.io/img/avatar-icon.png)]
-(/link "Title")
 
 * Bullet Point
 - Also a bullet Point
@@ -77,8 +75,6 @@ Link: Click [here!]()
 
 Image: ![alt text](https://encodeous.github.io/img/avatar-icon.png)
 
-Linked Image: [![alt text](https://encodeous.github.io/img/avatar-icon.png)]
-("/link" "Title")
 
 * Bullet Point
 - Also a bullet Point
