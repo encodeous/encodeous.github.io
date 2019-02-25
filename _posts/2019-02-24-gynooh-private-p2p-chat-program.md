@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: GYNOOH - Private P2P Chat Program
 ---
 ## GYNOOH is a private, end to end encrypted chat and communications program written fully in C#
