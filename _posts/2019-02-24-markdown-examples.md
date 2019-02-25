@@ -31,14 +31,14 @@ Linked Image: [![alt text](https://encodeous.github.io/img/avatar-icon.png)]
 
 
 `You can enter code`
-~~~
+```
 Or even code blocks!
 Blah.shh();
 if(Blah.nah)
 {
 	Blah.ploop();
 }
-~~~
+```
 
 ```csharp
   Console.WriteLine("You can also have fancy highlighted code!");
