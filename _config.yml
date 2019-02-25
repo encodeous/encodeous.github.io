@@ -23,7 +23,7 @@ description: A page that contains all the projects I have done
 navbar-links:
   Home: "https://encodeous.github.io"
   Projects:
-    - Coming Soon
+    - GYNOOH: "https://encodeous.github.io/2019-02-24-gynooh-private-p2p-chat-program/"
   View On Github: "https://github.com/encodeous"
 
 # Image to show in the navigation bar - image must be a square (width = height)
