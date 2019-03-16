@@ -52,7 +52,7 @@ The `DialogCreator` constructor has a few parameters
 ![](https://i.imgur.com/atYa9Bc.png)
 
 
-Lets quickly create the form:
+Lets quickly create the actual dialog form:
 
 ![](https://i.imgur.com/wjNccVS.png)
 
