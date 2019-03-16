@@ -22,9 +22,11 @@ In this tutorial, we will be creating cool modal dialogs like this:
 
 ![](https://i.imgur.com/TSC0YFR.png)
 
+First reference the library:
 
+![](https://i.imgur.com/FXGJKF8.png)
 
-First create a simple window and button that will launch the dialog (this step is optional)
+Then create a simple window and button that will launch the dialog
 
 ![](https://i.imgur.com/Cf2zUF5.png)
 
