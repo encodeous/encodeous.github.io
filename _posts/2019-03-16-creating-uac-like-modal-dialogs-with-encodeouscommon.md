@@ -6,7 +6,7 @@ published: true
 ---
 ## Creating UAC-like modal dialogs with EncodeousCommon
 Before starting:
-- Download the [EncodeousCommon.Miscellaneous.ModalDialog and EncodeousCommon.Demo.ModalDialog](https://ci.appveyor.com/project/Encodeous/encodeouscommon/build/artifacts)
+- Download the latest Builds of [EncodeousCommon.Miscellaneous.ModalDialog and EncodeousCommon.Demo.ModalDialog](https://ci.appveyor.com/project/Encodeous/encodeouscommon/build/artifacts).
 
 ### What is a Modal dialog?
 A modal dialog is a dialog that requires the user to interact with it. In this case, the modal dialog also prevents other windows from covering it!
@@ -60,11 +60,13 @@ Add a close button and insert the event handler.
 
 In our close method, we will run Close();
 
-{: .box-note} Note: Close(); is a built-in function in winforms
+{: .box-note}
+Note: Close(); is a built-in function in winforms
 
 ![](https://i.imgur.com/RnXVxUH.png)
 
 
-{: .box-warning} Warning: On the form, DO NOT run any code that can terminate the currently running process! doing so will cause the user to be stuck in an empty void (desktop)
+{: .box-warning} 
+Warning: On the form, DO NOT run any code that can terminate the currently running process! doing so will cause the user to be stuck in an empty void (desktop)
 
 ### The program should be ready to go! Give it a try or download the demo program!
